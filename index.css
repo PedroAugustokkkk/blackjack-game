@@ -1,0 +1,36 @@
+body {
+    background-image: url(images/ratin.jpeg);
+    background-size: cover;
+}
+
+div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-size: cover;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+h1 {
+    color: goldenrod
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    border: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
